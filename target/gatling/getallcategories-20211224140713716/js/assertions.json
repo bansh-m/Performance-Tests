@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatlingTest.GetAllCategories",
+  "simulationId": "getallcategories",
+  "start": 1640354833716,
+  "description": "",
+  "scenarios": ["GetAllCategories"],
+  "assertions": [
+
+  ]
+}

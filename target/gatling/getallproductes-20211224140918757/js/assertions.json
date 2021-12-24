@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatlingTest.GetAllProductes",
+  "simulationId": "getallproductes",
+  "start": 1640354958757,
+  "description": "",
+  "scenarios": ["GetAllProductes"],
+  "assertions": [
+
+  ]
+}
